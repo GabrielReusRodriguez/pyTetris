@@ -10,6 +10,7 @@ from Patterns.ObserverPattern import *
 from pyTetrisGame.KeyListenerSubject import KeyListenerSubject
 
 
+
 class PyTetrisGame(Observer):
     
     def __init__(self):
